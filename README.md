@@ -7,7 +7,13 @@ SciPy.in 2013 Scikit-learn Tutorial
 - twitter: [@vabasu](https://twitter.com/vabasu)
 - github: [Balu-Varanasi](http://github.com/Balu-Varanasi)
 
-This repository will contain files and other info associated with SciPy.in 2013 scikit-learn tutorial.
+*Instructor: Jaidev Deshpande*
+
+- email: <deshpande.jaidev@gmail.com>
+- twitter: [@jaidevd](https://twitter.com/jaidevd)
+- github: [jaidevd](https://github.com/jaidevd)
+
+This repository will contain files and other info associated with SciPy India 2013 scikit-learn tutorial.
 
 Goals
 -----
@@ -35,7 +41,7 @@ in your terminal window and see the notebook panel load in your web browser.
 
 For users who do not yet have these  packages installed, a relatively
 painless way to install all the requirements is to use a package such as
-[Anaconda CE](http://store.continuum.io/ "Anaconda CE"), which can be
+[ENTHOUGHT CANOPY](https://www.enthought.com/products/canopy/), which can be
 downloaded and installed for free.
 
 Downloading the Tutorial Materials
